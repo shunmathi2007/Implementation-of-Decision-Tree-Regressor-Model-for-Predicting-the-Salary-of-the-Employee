@@ -68,17 +68,9 @@ plt.show()
 ```
 
 ## Output:
-<Figure size 640x480 with 1 Axes>
+
     
-Predicted salaries: [  45000.   50000.   60000.   80000.  110000.  150000.  200000.  300000.
-  500000. 1000000.]
-Predicted Salary for level 6.5: 150000.0
-/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
-  warnings.warn(
-/tmp/ipython-input-2109616475.py:48: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
-  X_grid = np.arange(min(X.values), max(X.values)+0.01, 0.01)  # High-resolution for smoother curve
-/usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
-  warnings.warn(
+<Figure size 640x480 with 1 Axes>
   
 
 
