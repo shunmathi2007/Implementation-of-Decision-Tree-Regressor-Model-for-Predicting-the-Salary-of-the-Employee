@@ -68,9 +68,8 @@ plt.show()
 ```
 
 ## Output:
-
-    
 <Figure size 640x480 with 1 Axes>
+    
   
 
 
