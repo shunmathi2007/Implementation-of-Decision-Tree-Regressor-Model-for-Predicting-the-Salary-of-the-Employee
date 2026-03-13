@@ -82,7 +82,7 @@ Predicted Salary for level 6.5: 150000.0
   X_grid = np.arange(min(X.values), max(X.values)+0.01, 0.01)  # High-resolution for smoother curve
 /usr/local/lib/python3.12/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
   warnings.warn(
-  
+  <Figure size 640x480 with 1 Axes>
 
 
 ## Result:
