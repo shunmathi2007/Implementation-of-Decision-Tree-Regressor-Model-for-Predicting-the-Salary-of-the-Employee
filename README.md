@@ -69,6 +69,7 @@ plt.show()
 
 ## Output:
 
+<Figure size 640x480 with 1 Axes><img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/9e5ed737-5b59-4f72-b3da-13a6944850b4" />
 
 
 ## Result:
